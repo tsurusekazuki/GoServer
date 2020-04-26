@@ -1,7 +1,7 @@
 package main
 
 import (
-	"workspace/sampleapp/routes"
+	"github.com/tsurusekazuki/sampleapp/routes"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package config
 
 import (
-	"workspace/sampleapp/crypto"
+	"github.com/tsurusekazuki/sampleapp/crypto"
 
 	"errors"
 )
