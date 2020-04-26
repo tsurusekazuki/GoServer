@@ -29,4 +29,3 @@ func UserLogIn(ctx *gin.Context) {
 
 	ctx.Redirect(http.StatusSeeOther, "//localhost:8080/")
 }
-
